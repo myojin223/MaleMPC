@@ -1,3 +1,3 @@
-# Renamed MaleMPC to match old creators style
+# Drag and drop the folder inside of the "MaleMPC-main" folder into your existing Proximity template directory
 
-## Originally Black Extended Frame by And0ne
+## For Proximity 0.5.4+
